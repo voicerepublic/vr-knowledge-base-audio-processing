@@ -7,3 +7,6 @@ see https://www.pivotaltracker.com/story/show/133503935
 ## Install
 
     apt-get install -y avconv ffmpeg mplayer vlc
+
+## Tests
+- How does the tool handle empty files?
